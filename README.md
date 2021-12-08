@@ -2,25 +2,24 @@
   Hello, I'm Nick 👋
 </h1>
 
-<p>
+<h4>
   Here are some of my favorite frameworks and tools: <br>
+</h4>
+  <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<p>
+<h4>
   Here's where I work: <br>
+</h4>
+  <p>
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   
-</p>
-
-<p>
-  My favorite pass times: 
-  ⛳ 🏒 👨‍💻
 </p>
 
 <hr>
