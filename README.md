@@ -2,9 +2,14 @@
   Hello, I'm Nick 👋
 </h1>
 
-<h4>
+- Developer located in Ottawa, Canada.
+- Currently working on a Word of the day app and a 3D Printing Marketplace
+- Aside from programming, I enjoy playing ⛳ and 🏒 in my spare time.
+
+<hr>
+<h3>
   Here are some of my favorite frameworks and tools: <br>
-</h4>
+</h3>
   <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -14,7 +19,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-<hr>
+
 
 <h3>
 📫 How to reach me:
