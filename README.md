@@ -8,7 +8,7 @@
 
 <hr>
 <h3>
-  🔨 Here are some of my favorite frameworks and tools: <br>
+  🔨 Some of my favorite tools and frameworks: <br>
 </h3>
   <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
