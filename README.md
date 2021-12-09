@@ -8,7 +8,7 @@
 
 <hr>
 <h3>
-  Here are some of my favorite frameworks and tools: <br>
+  🔨 Here are some of my favorite frameworks and tools: <br>
 </h3>
   <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -22,7 +22,7 @@
 
 
 <h3>
-📫 How to reach me:
+  📫 How to reach me:
 
 </h3>
 <a href="mailto:nick.leguerrier@outlook.com">
