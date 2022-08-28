@@ -3,7 +3,6 @@
 </h1>
 
 - Developer located in Ottawa, Canada.
-- Currently working on a Word of the day app and a 3D Printing Marketplace.
 - Aside from programming, I enjoy playing ⛳ and 🏒 in my spare time.
 
 <hr>
